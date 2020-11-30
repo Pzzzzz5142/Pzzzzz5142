@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-This is Pzzzzz's place to put some touch fish🐟 stuff! 
+This is a place for me to put some touch fish🐟 stuff! 
+
+📫 How to reach me:
++ QQ: 545870222
 
 <!--
 **Pzzzzz5142/Pzzzzz5142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +22,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pzzzzz5142&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pzzzzz5142)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pzzzzz5142&exclude_repo=Pzzzzz5142.github.io,My-Blog)](https://github.com/anuraghazra/github-readme-stats)
